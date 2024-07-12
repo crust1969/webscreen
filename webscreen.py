@@ -3,9 +3,9 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Spotify credentials
-SPOTIPY_CLIENT_ID = 'your_spotify_client_id'
-SPOTIPY_CLIENT_SECRET = 'your_spotify_client_secret'
-SPOTIPY_REDIRECT_URI = 'your_spotify_redirect_uri'
+SPOTIPY_CLIENT_ID = '7e10a9ddde3d4fdfad5a805ade9f9dc8'
+SPOTIPY_CLIENT_SECRET = '0ef98f30900144e190acc6f7c3f3c639'
+SPOTIPY_REDIRECT_URI = 'https://webscreen-uzxkxiyk3sbvw2cesdyfqn.streamlit.app/'
 
 st.set_page_config(layout="wide")
 
